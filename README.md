@@ -1,7 +1,7 @@
 TREINAMENTO SUPERVISIONADO.
 
 Algoritimo de aprendizagem perceptron de uma única camada regra delta, processo adeline.
-
+```
 (w,j)T + i  = valor do peso corrigido.
 (w,j)T =  valor do peso na interação anterior.
 E(j) T = valor do erro para o neuronio j.
@@ -10,6 +10,8 @@ T = interação.
 j = indice do reunocio.
 n = taxa de aprendizado.
 x(i) = sinal de saida.
+```
+
 
 (E)j Diferença do sinal da saida a o resultado esperado:
 E(j)=d(j)- y(j).
