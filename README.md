@@ -60,3 +60,5 @@ w1 = 1 + 1 x (0) x 1 = 1;
 w2 = 0 + 1 x (0) x 1 = 0;
 b = 0 + 1 x (0) x 1 = 0.
 
+
+![GitHub](https://img.shields.io/badge/python-3.9-blue) ![GitHub](https://img.shields.io/badge/licence-GPL%203.0-GREE)
