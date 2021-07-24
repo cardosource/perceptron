@@ -42,8 +42,8 @@ Função de Ativação:
 
 v = 0x1 + 0x1 + 0x1 =0
 
-Funcão de transferencia:
-corrigir:
+Funcão de transferencia: 
+corrigir:   
 E= 1 - 0 = 1
 
 w1 = 0 + 1 x 1 x 1 = 1;
