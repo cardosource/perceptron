@@ -58,8 +58,8 @@ funcao transferencia:
 correção:
 E= 1 - 1 = 0
 
-w1 = 1 + 1 x (0) x 1 = 1;
-w2 = 0 + 1 x (0) x 1 = 0;
+w1 = 1 + 1 x (0) x 1 = 1;   
+w2 = 0 + 1 x (0) x 1 = 0;   
 b = 0 + 1 x (0) x 1 = 0.
 
 
