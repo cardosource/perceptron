@@ -38,7 +38,7 @@ vermelho = 1
 amarelo = 1
 verde = -1
 
-Função de Ativação:
+Função de Ativação:     
 
 v = 0x1 + 0x1 + 0x1 =0
 
