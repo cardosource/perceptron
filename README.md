@@ -46,7 +46,7 @@ Funcão de transferencia:
 corrigir:   
 E= 1 - 0 = 1
 
-w1 = 0 + 1 x 1 x 1 = 1;
+w1 = 0 + 1 x 1 x 1 = 1;   
 w2 = 0 + 1 x 1 x 1 = 1;
 b  = 0 + 1 x 1 x 1 = 1.
 
