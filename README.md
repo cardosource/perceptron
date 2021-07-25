@@ -42,7 +42,7 @@ Função de Ativação:
 
 v = 0x1 + 0x1 + 0x1 =0
 
-Funcão de transferencia: 
+Funcão de transferencia:    
 corrigir:   
 E= 1 - 0 = 1
 
