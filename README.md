@@ -33,9 +33,9 @@ E(j)=d(j)- y(j).
 
 
 
-Example Color
-vermelho = 1
-amarelo = 1
+Example Color    
+vermelho = 1   
+amarelo = 1   
 verde = -1
 
 Função de Ativação:     
@@ -47,15 +47,15 @@ corrigir:
 E= 1 - 0 = 1
 
 w1 = 0 + 1 x 1 x 1 = 1;   
-w2 = 0 + 1 x 1 x 1 = 1;
+w2 = 0 + 1 x 1 x 1 = 1;   
 b  = 0 + 1 x 1 x 1 = 1.
 
 Iniciando o reconhecimento :
 
-Função de Ativação:
-v = 1x0 +1 x1 + 0x0 = 1
-funcao transferencia:
-correção:
+Função de Ativação:    
+v = 1x0 +1 x1 + 0x0 = 1    
+funcao transferencia:    
+correção:     
 E= 1 - 1 = 0
 
 w1 = 1 + 1 x (0) x 1 = 1;   
